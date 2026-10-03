@@ -14,7 +14,7 @@ A C++ based schedule management system that helps manage weekly activities and r
 
 The user adds an activity by entering its title, day, time, activity type, and priority.
 
-The system checks whether the new activity conflicts with an existing schedule. If a conflict occurs, the system applies priority-based rules to determine which activity is kept. If an activity needs to be rescheduled, the system recommends available free slots.
+The system checks whether the new activity conflicts with an existing schedule. If a conflict occurs, the system applies priority based rules to determine which activity is kept. If an activity needs to be rescheduled, the system recommends available free slots.
 
 ## Project Files
 
